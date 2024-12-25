@@ -61,8 +61,6 @@ To check if SoX is now in your PATH, open **Command Prompt** or **PowerShell** a
 
 
 ### Usage
-python normalize_in_place.py
-
-or
-
-run bat file
+python normalize_in_place.py  
+or  
+run bat file  
