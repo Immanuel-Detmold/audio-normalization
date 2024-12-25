@@ -45,7 +45,7 @@ This repository provides a simple Python script to **normalize audio files** usi
 
 ### Install SoX
 
-1. Download **SoX** from the official [SoX website](http://sox.sourceforge.net/) or from [GitHub (unofficial binaries)](https://github.com/chirlu/sox-windows).
+1. Download **SoX** from the official [SoX website](http://sox.sourceforge.net/)
 2. Unzip or install to a folder, for example: C:\Program Files\sox
 
 
