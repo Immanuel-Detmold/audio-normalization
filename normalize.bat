@@ -1,2 +1,1 @@
-python main.py
-pause
+python mainV2.py
